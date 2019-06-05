@@ -3,6 +3,12 @@
 This Python script connects to a Cisco DNA Center server via the API, queries the inventory
 and then adds the hostname/ip as SSH sessions in [Putty](https://www.putty.org/) for all devices on the users machine. **Windows only**
 
+## DevNet Code Exchange
+
+This repository is featured on Cisco DevNet Code Exchange.
+
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/Natilik/dna-putty-sessions)
+
 ## DNAC inventory
 
 ![DNAC Inventory](images/dnac-inventory.png)
