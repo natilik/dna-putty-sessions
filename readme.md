@@ -57,4 +57,4 @@ xlwt==1.3.0
 
 ## Licence
 
-This project is licensed under the GNU GPLv3 Licence - see the [Licence.md](licence.md) file for details
+This project is licensed under the GNU GPLv3 Licence - see the [Licence.md](licence.md) and [Notice.md](notice.md) file for details
