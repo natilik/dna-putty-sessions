@@ -41,9 +41,8 @@ C:\dna-putty-sessions> venv\Scripts\activate
 
 ```requirements.txt
 Jinja2==2.10.1
-netaddr==0.7.19
 requests==2.21.0
-urllib3==1.24.1
+urllib3==1.24.2
 xlrd==1.2.0
 xlwt==1.3.0
 ```
