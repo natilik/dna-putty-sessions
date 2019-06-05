@@ -55,6 +55,6 @@ xlwt==1.3.0
 
 * **Chris Salisbury** - *Initial work* - [nonstdout](https://gitlab.com/nonstdout)
 
-## License
+## Licence
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU GPLv3 Licence - see the [Licence.md](Licence.md) file for details
